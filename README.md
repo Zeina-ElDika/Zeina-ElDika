@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to improve my programming skills through projects 
 - 📫 How to reach me via email: dikazeina5@gmail.com
+- linkedin profile: zeinalinkedin01@gmail.com
 
 <!---
 Zeina-ElDika/Zeina-ElDika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
